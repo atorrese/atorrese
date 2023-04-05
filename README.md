@@ -19,12 +19,12 @@ Full-Stack | Web | Developer
 
 ## Mis redes sociales
 
-<a href="https://www.linkedin.com/in/hector-llerena-aguilera-465b3a13b/">
+<a href="https://www.linkedin.com/in/angealbert/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto:hllerenaa1h@gmail.com">
+<a href="mailto:atorrese1997@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
 
 ---
-⭐️ Portafolio [Hector LLerena](https://solucionados.live)
+⭐️ Portafolio [Angel Torres]

@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="https://github.com/hllerenaa/hllerenaa/blob/master/img/home-banner-bg.png">
+<img align="right" width="500" height="500" src="">
 
 
 # Hola, Soy Angel.

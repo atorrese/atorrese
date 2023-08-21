@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="">
+<img align="right" width="500" height="500" src="https://github.com/atorrese/atorrese/blob/main/fondo-programador.jpg">
 
 
 # Hola, Soy Angel.
